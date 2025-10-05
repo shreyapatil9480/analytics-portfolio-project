@@ -53,3 +53,8 @@ This project is intended as a personal portfolio example. If you have ideas for 
 ## License
 
 This project is released under the MIT License. Feel free to use, modify, and distribute the contents.
+
+
+## Contact
+
+For questions or feedback regarding this project, feel free to reach out via GitHub Issues.
